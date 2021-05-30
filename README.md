@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/marcio-barroso-569234181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcio-barroso-569234181/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcio-barroso-569234181/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
