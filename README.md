@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-4633
-Fork on GitHub
-883
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Marcio Barroso</h1>
 <h3 align="center">A curious Full-Stack Developer from Brazil.</h3>
 
