@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barrrosomarcio&label=Profile%20views&color=0e75b6&style=flat" alt="barrrosomarcio" /> </p>
 
-- 🌱 I’m currently learning **@Trybe**
+- 🌱 I’m currently working @ **CWI Software**
 
 - 👨‍💻 All of my projects are available at [https://github.com/barrrosomarcio?tab=repositories](https://github.com/barrrosomarcio?tab=repositories)
 
